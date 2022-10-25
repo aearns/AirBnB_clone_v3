@@ -154,9 +154,11 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+<<<<<<< HEAD
 Enoch Amenu - [Github](https://github.com/aearns)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 Second part of Airbnb: Joann Vuong. 
+======= 
+>>>>>>> abe398da831645f2796f886ebfc526c1a3ceb318
 Stephen Ayitiah - [Github](https://github.com/UnknownTitan)
 ## License
 Public Domain. No copy write protection. 
